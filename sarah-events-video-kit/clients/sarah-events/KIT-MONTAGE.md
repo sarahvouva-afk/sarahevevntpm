@@ -75,3 +75,7 @@ Tout ce qu'il faut pour que Claude monte tes reels dans ton style, celui de ton 
   Pour les vidéos face caméra, cette règle remplace « sous-titres ivoire » de la section 2.
 - Titre fixe en haut pendant toute la vidéo, en serif, couleur lilas (#F0B8F2), sur deux lignes.
 - « VAC » / « vieilles-ci » dans la transcription = **VIC** (Very Important Clients).
+- (22/11/2026, retour v1) Une seule prise par phrase, jamais deux prises collées. Couper uniquement dans un silence, au début de la
+  prise gardée : aucune fin de la prise précédente ne doit rester. Méthode : découper le rush aux silences, transcrire chaque bout
+  séparément, garder des bouts entiers. Pour l'accroche, choisir la meilleure intonation (proposer les prises à Sarah si doute).
+- Police des titres et sous-titres : **Advercase** (police payante, Sarah fournit son fichier .ttf/.otf dans `fonts/`).
