@@ -67,3 +67,11 @@ Tout ce qu'il faut pour que Claude monte tes reels dans ton style, celui de ton 
 - Chiffres à l'écran = chiffres de la section 3, orthographe relue.
 - Volume mesuré. Ce que Claude ne peut pas juger (il n'entend pas) : le choix de la musique, à écouter toi-même.
 - Vidéo livrée dans `out/`, nommée par son titre, versions -v2, -v3. Rien n'est publié par Claude : c'est toi qui postes.
+
+## 7. Vidéos face caméra (ajouté le 22/11/2026, à sa demande)
+- Référence de DA : sa vidéo « La solitude de l'entrepreneuriat en tant que femme ».
+- Coupes franches entre les phrases (jump cuts), blancs enlevés ; on garde toujours la **dernière** prise complète de chaque phrase.
+- Sous-titres **jaunes** (#FFE600), en serif, 2 à 4 mots, au milieu-bas de l'image (y ≈ 1440), sans boîte, sans karaoké.
+  Pour les vidéos face caméra, cette règle remplace « sous-titres ivoire » de la section 2.
+- Titre fixe en haut pendant toute la vidéo, en serif, couleur lilas (#F0B8F2), sur deux lignes.
+- « VAC » / « vieilles-ci » dans la transcription = **VIC** (Very Important Clients).
