@@ -80,3 +80,4 @@ Tout ce qu'il faut pour que Claude monte tes reels dans ton style, celui de ton 
   séparément, garder des bouts entiers. Pour l'accroche, choisir la meilleure intonation (proposer les prises à Sarah si doute).
 - Police des titres et sous-titres : **Instrument Serif** (gratuite, `fonts/InstrumentSerif-Regular.ttf`), choisie par Sarah le 22/11/2026.
   Advercase écartée : la démo gratuite n'a pas les accents et sa licence interdit les réseaux sociaux.
+- Colorimétrie face caméra (22/11/2026) : saturation légèrement montée (x1,12) et image un peu plus chaude (colorbalance rouge +, bleu −).
