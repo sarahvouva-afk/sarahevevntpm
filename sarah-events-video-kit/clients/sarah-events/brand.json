@@ -1,0 +1,48 @@
+{
+  "_comment": "Charte Sarah Events (@sarah.eventspm) : la DA de ton site. Luxe épuré : ivoire sur encre, violet #8274D6 en une seule couleur, sur le texte uniquement (jamais de dégradé, jamais de couleur ajoutée sur les vidéos).",
+  "_polices": "Titres : Playfair Display (celle de ton site), à déposer dans fonts/ en .ttf. En attendant, Jost sert aux sous-titres et aux textes écran.",
+  "format": "9:16",
+  "colors": {
+    "background": "#17151B",
+    "accent": "#8274D6",
+    "text": "#F5F2ED"
+  },
+  "fonts": {
+    "heading": { "family": "Jost", "file": "fonts/Jost-var.ttf" },
+    "body": { "family": "Jost", "file": "fonts/Jost-var.ttf" }
+  },
+  "grade": { "enabled": false },
+  "render": { "encoder": "auto" },
+  "subtitles": {
+    "family": "Jost",
+    "file": "fonts/Jost-var.ttf",
+    "size": 64,
+    "case": "natural",
+    "karaoke": false,
+    "gapFree": true,
+    "maxWords": 4,
+    "maxChars": 26,
+    "positionY": 1420,
+    "wordColor": "#F5F2ED",
+    "stroke": 0,
+    "shadow": { "depth": 0, "opacity": 0.45, "blur": 14 },
+    "box": { "enabled": false },
+    "emphasis": { "textColor": "#8274D6", "animation": false, "sizeBoost": 1.0 },
+    "replacements": {
+      "sarah events": "Sarah Events",
+      "sarah event": "Sarah Events",
+      "le 19 m": "le19M",
+      "le dix-neuf m": "le19M",
+      "19 m": "19M",
+      "agile pm": "AGILE PM",
+      "skema": "SKEMA",
+      "sus on us": "Sus on us",
+      "suss on us": "Sus on us",
+      "odc events": "ODC Events",
+      "vic": "VIC",
+      "upe": "UPE",
+      "andf": "ANDF",
+      "kakemono": "kakémono"
+    }
+  }
+}
