@@ -78,4 +78,5 @@ Tout ce qu'il faut pour que Claude monte tes reels dans ton style, celui de ton 
 - (22/11/2026, retour v1) Une seule prise par phrase, jamais deux prises collées. Couper uniquement dans un silence, au début de la
   prise gardée : aucune fin de la prise précédente ne doit rester. Méthode : découper le rush aux silences, transcrire chaque bout
   séparément, garder des bouts entiers. Pour l'accroche, choisir la meilleure intonation (proposer les prises à Sarah si doute).
-- Police des titres et sous-titres : **Advercase** (police payante, Sarah fournit son fichier .ttf/.otf dans `fonts/`).
+- Police des titres et sous-titres : **Instrument Serif** (gratuite, `fonts/InstrumentSerif-Regular.ttf`), choisie par Sarah le 22/11/2026.
+  Advercase écartée : la démo gratuite n'a pas les accents et sa licence interdit les réseaux sociaux.
