@@ -81,3 +81,4 @@ Tout ce qu'il faut pour que Claude monte tes reels dans ton style, celui de ton 
 - Police des titres et sous-titres : **Instrument Serif** (gratuite, `fonts/InstrumentSerif-Regular.ttf`), choisie par Sarah le 22/11/2026.
   Advercase écartée : la démo gratuite n'a pas les accents et sa licence interdit les réseaux sociaux.
 - Colorimétrie face caméra (22/11/2026) : saturation légèrement montée (x1,12) et image un peu plus chaude (colorbalance rouge +, bleu −).
+- (23/11/2026) Sarah a retiré la colorimétrie sur cette vidéo : demander avant de réappliquer saturation/chaud (image d'origine par défaut).
